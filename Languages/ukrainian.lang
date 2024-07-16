@@ -1,0 +1,3009 @@
+# USB Loader GX language source file.
+# ukrainian.lang - r885
+# don't delete/change this line (é).
+msgid ""
+msgstr ""
+"Project-Id-Version: USB Loader GX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-15 16:05+0200\n"
+"PO-Revision-Date: 2009-10-01 01:00+0200\n"
+"Last-Translator: nikolai_ca\n"
+"Language-Team: Kir, alendit, nikolai_ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+msgid " could not be downloaded."
+msgstr " не вдалось завантажити"
+
+msgid " has been Saved.  The text has not been verified.  Some of the code may not work right with each other.  If you experience trouble, open the text in a real text editor for more information."
+msgstr " був збережений. Текст не був перевірений. Деякі частини коду можуть не працювати правильно один з одним. Якщо ви зіткнулись із проблемою, відкрийте текст в текстовому редакторі, щоб отримати більше інформації."
+
+msgid " is not on the server."
+msgstr " немає на сервері"
+
+#, c-format
+msgid "%i files not found on the server!"
+msgstr "%i файл(и/ів) не знайшлися на сервері"
+
+#, c-format
+msgid "%i missing files"
+msgstr "%i відсутніх файлів"
+
+#, c-format
+msgid "%i WAD file(s) not processed!"
+msgstr "%i WAD файл(и/ів) не були оброблені"
+
+#, c-format
+msgid "%i WAD found."
+msgstr "%i WAD знайдено"
+
+#, c-format
+msgid "%s only accepts GameCube backups in ISO format."
+msgstr "%s підтримує лише резервні копії GameCube у форматі ISO"
+
+#, c-format
+msgid "%s requires AHB access! Please launch USBLoaderGX from HBC or from an updated channel or forwarder."
+msgstr "%s вимагає AHB доступ! Будь ласка, запустіть USBLoaderGX із HBC або з оновленого каналу чи форвардера"
+
+msgid "--==       Devolution"
+msgstr ""
+
+msgid "--==       Nintendont"
+msgstr ""
+
+msgid "--==   DIOS MIOS (Lite) "
+msgstr ""
+
+msgid "--==  DM(L) + Nintendont"
+msgstr ""
+
+msgid "/\\/\\"
+msgstr ""
+
+msgid "0 (Everyone)"
+msgstr "0 (Для всіх)"
+
+msgid "1 (Child 7+)"
+msgstr "1 (Діти 7+)"
+
+msgid "1 hour"
+msgstr "1 година"
+
+msgid "10 min"
+msgstr "10 хв."
+
+msgid "2 (Teen 12+)"
+msgstr "2 (Підлітки 12+)"
+
+msgid "20 min"
+msgstr "20 мин."
+
+msgid "2D Cover Path"
+msgstr "Шлях до 2D обкладинок"
+
+msgid "3 (Mature 16+)"
+msgstr "3 (Підлітки 16+)"
+
+msgid "3 min"
+msgstr "3 хв."
+
+msgid "30 min"
+msgstr "30 хв."
+
+msgid "3D Cover Path"
+msgstr "Шлях до 3D обкладинок"
+
+msgid "3D Covers"
+msgstr "3D Обкладинки"
+
+msgid "4 (Adults Only 18+)"
+msgstr "4 (Дорослі 18+)"
+
+msgid "480p Pixel Fix Patch"
+msgstr "Виправлення пікселів у 480p"
+
+msgid "5 min"
+msgstr "5 хв."
+
+msgid "=== GameCube Settings"
+msgstr "Налаштування GameCube"
+
+msgid "AUTO"
+msgstr "АВТО"
+
+msgid "AXNextFrame"
+msgstr ""
+
+msgid "Add category"
+msgstr "Додати категорію"
+
+msgid "Adjust Overscan X"
+msgstr "Змінити позицію оверскану X"
+
+msgid "Adjust Overscan Y"
+msgstr "Змінити позицію оверскану Y"
+
+msgid "After zoom"
+msgstr "Після зближення"
+
+msgid "All"
+msgstr "Всі"
+
+msgid "All Partitions"
+msgstr "Всі томи"
+
+msgid "All files extracted."
+msgstr "Всі файли розпаковано."
+
+msgid "All images downloaded successfully."
+msgstr "Всі зображення завантажено успішно."
+
+msgid "All the features of USB Loader GX are unlocked."
+msgstr "Всі функції USB Loader GX розблоковані."
+
+msgid "All WAD files processed successfully."
+msgstr "Всі WAD файли оброблені успішно"
+
+msgid "Alternate DOL"
+msgstr "Альтернативний DOL"
+
+msgid "AltWFC"
+msgstr ""
+
+msgid "An example file was created here:"
+msgstr "Приклад файлу зроблений тут:"
+
+msgid "Animation Start"
+msgstr "Початок анімації"
+
+msgid "App Language"
+msgstr "Мова застосунку"
+
+msgid "Apply"
+msgstr "Застосувати"
+
+msgid "Apr"
+msgstr "Кві"
+
+msgid "Are you really sure you want to delete all selected games from the SD card?"
+msgstr "Ви впевнені, що хочете видалити всі виділені ігри з SD кари?"
+
+msgid "Are you sure you want to delete this category?"
+msgstr "Ви впевнені, що хочете видалити цю категорію?"
+
+msgid "Are you sure you want to import game categories from GameTDB?"
+msgstr "Ви впевнені, що хочете імпортувати категорії ігор із GameTDB?"
+
+msgid "Are you sure you want to install on SD?"
+msgstr "Ви впевнені, що хочете встановити на SD карту?"
+
+msgid "Are you sure you want to lock USB Loader GX?"
+msgstr "Ви впевнені, що хочете заблокувати USB Loader GX?"
+
+msgid "Are you sure you want to remount SD?"
+msgstr "Ви впевнені, що хочете перепідключити SD карту?"
+
+msgid "Are you sure you want to reset?"
+msgstr "Ви впевнені, що хочете перезапустити?"
+
+msgid "Are you sure?"
+msgstr "Ви впевнені?"
+
+msgid "Aspect Ratio"
+msgstr "Відношення сторін"
+
+msgid "Attention!"
+msgstr "Увага!"
+
+msgid "Attention: All savegames will be deleted."
+msgstr "Увага: Всі збереження ігор будуть видалені."
+
+msgid "Aug"
+msgstr "Сер"
+
+msgid "Author(s):"
+msgstr "Автор(и)"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Auto Boot"
+msgstr "Авто запуск"
+
+msgid "AutoInit Network"
+msgstr "Автоініціалізація мережі"
+
+msgid "BCA Codes Path"
+msgstr "Шлях до кодів BCA"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Back to HBC or Wii Menu"
+msgstr "Повернутись до HBC або меню Wii"
+
+msgid "Background Music"
+msgstr "Фонова музика"
+
+msgid "Banner Animation"
+msgstr "Анімація банерів"
+
+msgid "Banner Animation Settings"
+msgstr "Налаштування анімації банерів"
+
+msgid "Banner On Channels"
+msgstr "Банери на каналах"
+
+msgid "Banner grid layout is only available with AHBPROT! Please consider installing new HBC version."
+msgstr "Сітка банерів доступна лише з AHBPROT! Будь ласка, встановіть нову версію HBC."
+
+msgid "Banner window is only available with AHBPROT! Please consider installing new HBC version."
+msgstr "Вікно банера доступне лише з AHBPROT! Будь ласка, встановіть нову версію HBC."
+
+msgid "Big thanks to:"
+msgstr "Велике дякую:"
+
+msgid "Block Categories Menu"
+msgstr "Заблокувати меню категорій"
+
+msgid "Block Categories Modify"
+msgstr "Заблокувати змінювання категорій"
+
+msgid "Block Cover Downloads"
+msgstr "Заблокувати завантаження обкладинок"
+
+msgid "Block Custom Paths"
+msgstr "Заблокувати власні шляхи"
+
+msgid "Block Feature Settings"
+msgstr "Заблокувати налаштування функцій"
+
+msgid "Block Game Install"
+msgstr "Заблокувати встановлення ігор"
+
+msgid "Block Game Settings"
+msgstr "Заблокувати налаштування ігор"
+
+msgid "Block GameID Change"
+msgstr "Заблокувати змінювання ID ігор"
+
+msgid "Block Global Settings"
+msgstr "Заблокувати основні налаштування"
+
+msgid "Block Gui Settings"
+msgstr "Заблокувати налаштування інтерфейсу"
+
+msgid "Block HBC Menu"
+msgstr "Заблокувати меню HBC"
+
+msgid "Block Hard Drive Settings"
+msgstr "Заблокувати налаштування жорсткого дика"
+
+msgid "Block IOS Reload"
+msgstr "Заблокувати перезавантаження IOS"
+
+msgid "Block Loader Layout Button"
+msgstr "Заблокувати конпку розкладки завантажувача"
+
+msgid "Block Loader Mode Button"
+msgstr "Заблокувати кнопку режиму завантажувача"
+
+msgid "Block Loader Settings"
+msgstr "Заблокувати налаштування завантажувача"
+
+msgid "Block Parental Settings"
+msgstr "Заблокувати налаштування батьківського контролю"
+
+msgid "Block Priiloader Override"
+msgstr "Заблокувати перезаписування Priiloader(а)"
+
+msgid "Block Reset Settings"
+msgstr "Заблокувати налаштування перезавантаження"
+
+msgid "Block SD Reload Button"
+msgstr "Заблокувати кнопку перезавантаження SD карти"
+
+msgid "Block Sound Settings"
+msgstr "Заблокувати налаштування звуку"
+
+msgid "Block Theme Downloader"
+msgstr "Заблокувати завантажувач тем"
+
+msgid "Block Theme Menu"
+msgstr "Заблокувати меню тем"
+
+msgid "Block Title Launcher"
+msgstr "Заблокувати завантажувач заголовків"
+
+msgid "Block Updates"
+msgstr "Заблокувати оновлення"
+
+msgid "Boot Content"
+msgstr "Зміст запуску"
+
+msgid "Boot Neek System Menu"
+msgstr "Запустити системне меню Neek"
+
+msgid "Boot?"
+msgstr "Запустити?"
+
+msgid "Both"
+msgstr "Обидва"
+
+msgid "Both Ports"
+msgstr "Обидва порти"
+
+msgid "CC Rumble"
+msgstr "Вібрація CC"
+
+msgid "Cache BNR Files"
+msgstr "Кеш BNR файлів"
+
+msgid "Cache BNR Files Path"
+msgstr "Шлях кешу BNR файлів"
+
+msgid "Cache Path"
+msgstr "Шлях кешу"
+
+msgid "Cache Titles"
+msgstr "Кеш заголовків"
+
+msgid "Can't be formatted"
+msgstr "Не вдається відформатувати"
+
+msgid "Can't create directory"
+msgstr "Не вдається створити папку"
+
+#, c-format
+msgid "Can't create file: %s"
+msgstr "Не вдається створити файл: %s"
+
+#, c-format
+msgid "Can't create path: %s"
+msgstr "Не вдається створити шлях: %s"
+
+msgid "Can't delete:"
+msgstr "Не вдається видалити:"
+
+msgid "Can't mount or unknown disc format."
+msgstr "Не вдається запустити або невідомий формат диска"
+
+#, c-format
+msgid "Can't open file for write: %s"
+msgstr "Не вдається відкрити файл для записування: %s"
+
+#, c-format
+msgid "Can't open file: %s"
+msgstr "Не вдається відкрити файл: %s"
+
+#, c-format
+msgid "Can't read file: %s"
+msgstr "Не вдається прочитати файл: %s"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Can't write to destination."
+msgstr "Не вдається записати до папки"
+
+msgid "Categories"
+msgstr "Категорії"
+
+msgid "Categories:"
+msgstr "Категорії:"
+
+msgid "Change Play Path"
+msgstr "Змінти шлях гри"
+
+msgid "Channel Launcher"
+msgstr "Лаунчер каналів"
+
+msgid "Channel Path"
+msgstr "Шлях до каналів"
+
+msgid "Channels"
+msgstr "Канали"
+
+msgid "Cheatfile is blank"
+msgstr "Файл з чітами пустий"
+
+msgid "Clear"
+msgstr "Очистити"
+
+msgid "Click to download covers"
+msgstr "Натисніть, щоби завантажити обкладинки"
+
+msgid "Click to view information"
+msgstr "Натисніть, щоб переглянути інформацію"
+
+msgid "Clock"
+msgstr "Годинник"
+
+msgid "Clock Scale Factor"
+msgstr "Розмір годиннкиа"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Code Download"
+msgstr "Завантаження кода"
+
+#, c-format
+msgid "Coded by: %s"
+msgstr "Створено: %s"
+
+msgid "Coding:"
+msgstr "Створення:"
+
+msgid "Connection to server timed out."
+msgstr "Час з'єднання зі сервером вийшов"
+
+msgid "Console"
+msgstr "Консоль"
+
+msgid "Console Default"
+msgstr "Згідно з налаштуваннями консолі"
+
+msgid "Console Locked"
+msgstr "Консоль заблокована"
+
+msgid "Console must be unlocked for this option."
+msgstr "Консоль повинна бути розблокована для цього налаштування"
+
+msgid "Console must be unlocked to be able to use this."
+msgstr "Консоль повинна бути розблокована, щоби використовувати це"
+
+msgid "Console should be unlocked to modify it."
+msgstr "Консоль повинна бути розблокована, щоби змінити це"
+
+msgid "Continue"
+msgstr "Продовжити
+
+msgid "Continue to install game?"
+msgstr "Продолжити встановлення гри?"
+
+msgid "Continue?"
+msgstr "Продовжити?"
+
+msgid "Controllevel"
+msgstr "Рівень контролю"
+
+msgid "Copy"
+msgstr "Копіювати"
+
+msgid "Copying Canceled"
+msgstr "Копіювання скасоване"
+
+msgid "Copying GC game..."
+msgstr "Копіювання гри GC..."
+
+msgid "Copying files..."
+msgstr "Копіювання файлів..."
+
+msgid "Correct Password"
+msgstr "Правильний пароль"
+
+msgid "Could not connect to the server."
+msgstr "Не вдалося приєднатися до сервера."
+
+msgid "Could not create GCT file"
+msgstr "Не вдалось створити GCT файл"
+
+#, c-format
+msgid "Could not create path: %s"
+msgstr "Не вдалось створити шлях: %s"
+
+msgid "Could not extract files for:"
+msgstr "Не вдалось розпакувати файли для:"
+
+msgid "Could not find info for this game in the wiitdb.xml."
+msgstr "Не вдалось знайти інформацію длдя цієї гри в wiitdb.xml."
+
+msgid "Could not get free device space for game."
+msgstr "Не вдалось знайти достатньо місця для гри"
+
+msgid "Could not initialize DIP module!"
+msgstr "Не вдалось ініціалізувати модуль DIP!"
+
+msgid "Could not initialize network!"
+msgstr "Не вдалось ініціалізувати мережу!"
+
+msgid "Could not initialize network, time out!"
+msgstr "Не вдалось ініціалізувати мережу, час вийшов!"
+
+msgid "Could not open Disc"
+msgstr "Не вдалось прочитати диск"
+
+msgid "Could not open the WiiTDB.xml file."
+msgstr "Не вдалось відкрити файл WiiTDB.xml."
+
+msgid "Could not open wiitdb.xml."
+msgstr "Не вдалось відкрити wiitdb.xml."
+
+msgid "Could not save."
+msgstr "Не вдалось зберегти."
+
+msgid "Could not write file."
+msgstr "Не вдалось запистаи файл"
+
+msgid "Could not write to:"
+msgstr "Не вдалось записати до:"
+
+msgid "Cover Action"
+msgstr "Дія обкладинки"
+
+msgid "Cover Download"
+msgstr "Завантажити обкладинку"
+
+msgid "Create"
+msgstr "Створити"
+
+msgid "Credits"
+msgstr "Про авторів"
+
+msgid "Crop Overscan"
+msgstr "Обізати оверскан"
+
+msgid "Current neek files are not neek2o. Game autoboot disabled."
+msgstr "Поточні neek-файли не є файлами neek2o. Автозапуск гри вимкнено."
+
+msgid "Custom Address"
+msgstr "Власниа адреса"
+
+msgid "Custom Banners"
+msgstr "Власні банери"
+
+msgid "Custom Game IOS"
+msgstr "Власна IOS гри"
+
+msgid "Custom Games IOS"
+msgstr "Власна IOS ігор"
+
+msgid "Custom Paths"
+msgstr "Власні шляхи"
+
+msgid "Custom"
+msgstr "Власний"
+
+msgid "Customs"
+msgstr "Власні"
+
+msgid "Customs/Original"
+msgstr "Власні/Оригінальні
+
+msgid "D Buttons"
+msgstr "Кнопки D"
+
+msgid "DOL Path"
+msgstr "Шлях до DOL"
+
+msgid "Debug"
+msgstr "Дебаг"
+
+msgid "Debug Wait"
+msgstr "Очікування дебага"
+
+msgid "Debugger Paused Start"
+msgstr "Зупинений старт дебагера"
+
+msgid "Dec"
+msgstr "Гру"
+
+msgid "Default"
+msgstr "За замовчуванням"
+
+msgid "Default Settings"
+msgstr "Настройки за замовчуванням"
+
+msgid "Deflicker Filter"
+msgstr "Фільтр усунення мерехтіння"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Delete Cached Banner"
+msgstr "Видалити банер в кеші"
+
+msgid "Delete Cheat GCT"
+msgstr "Видалити чіт-код GCT"
+
+msgid "Delete Cheat TXT"
+msgstr "Видалити чіт-код TXT"
+
+msgid "Delete Cover Artwork"
+msgstr "Видалити обкладинку"
+
+msgid "Delete Disc Artwork"
+msgstr "Видалити малюнок диска"
+
+msgid "Delete category"
+msgstr "Видалити категорію"
+
+msgid "Deleting directories..."
+msgstr "Видалення папок..."
+
+msgid "Deleting files..."
+msgstr "Видалення файлів..."
+
+msgid "Design:"
+msgstr "Дизайн:"
+
+msgid "Details"
+msgstr "Деталі"
+
+msgid "Developed by"
+msgstr "Розроблено "
+
+msgid "Developer:"
+msgstr "Розробник:"
+
+msgid "Devolution"
+msgstr ""
+
+msgid "Devolution Loader Path"
+msgstr "Шлях до завантажувача Devolution"
+
+msgid "Devolution's loader.bin file can't be loaded."
+msgstr "Файл loader.bin для Devolution не вдається завантажити."
+
+msgid "Directory does not exist!"
+msgstr "Папки не існує!"
+
+msgid "Disc"
+msgstr "Диск"
+
+msgid "Disc 1"
+msgstr "Диск 1"
+
+msgid "Disc 2"
+msgstr "Диск 2"
+
+msgid "Disc Artwork"
+msgstr "Малюнок диска"
+
+msgid "Disc Artwork Download"
+msgstr "Завантажити малюнок диска"
+
+msgid "Disc Artwork Path"
+msgstr "Шлях до малюнків дисків"
+
+msgid "Disc Default"
+msgstr "Згідно з налаштуваннями диску"
+
+msgid "Disc Insert Detected"
+msgstr "Виявлено втавлення диска"
+
+msgid "Disc Read Delay"
+msgstr "Затримка перед читанням диска"
+
+msgid "Disc read error."
+msgstr "Виникла помилка при читанні диска."
+
+msgid "Disc-Select Prompt"
+msgstr "Вибір диска"
+
+msgid "Disc2 needs to be installed in uncompressed format to work with DM(L) v2.6+, are you sure you want to install in compressed format?"
+msgstr "Диск 2 повинен бути встановлений в нестисненому форматі для роботи з DM(L) v2.6+, ви впевнені, що хочете встановити в стисненому форматі?"
+
+msgid "DiskFlip"
+msgstr "Перевернення диска"
+
+msgid "Display"
+msgstr "Відображати"
+
+msgid "Display as a carousel"
+msgstr "Відображати каруселлю"
+
+msgid "Display as a channel grid"
+msgstr "Відображати сіткою каналів"
+
+msgid "Display as a grid"
+msgstr "Відображати сіткою"
+
+msgid "Display as a list"
+msgstr "Відображати списком"
+
+msgid "Display favorites only"
+msgstr "Відображати лише улюблені"
+
+msgid "Do you want to apply it now?"
+msgstr "Бажаєте застосувати це зараз?"
+
+msgid "Do you want to apply this theme?"
+msgstr "Бажаєте застосувати цю тему?"
+
+msgid "Do you want to change language?"
+msgstr "Бажаєте змінити мову?"
+
+msgid "Do you want to continue with next game?"
+msgstr "Бажаєте продовжити із наступною грою"
+
+msgid "Do you want to copy now?"
+msgstr "Бажаєте копіювати зараз?"
+
+msgid "Do you want to copy the game to SD or delete a game on SD?"
+msgstr "Ви хочете копіювати гру на SD карту чи видалити гру з SD карти?"
+
+msgid "Do you want to delete a game on SD?"
+msgstr "Бажаєте видалити гру на SD карті?"
+
+msgid "Do you want to discard changes?"
+msgstr "Бажаєте скасувати зміни?"
+
+msgid "Do you want to download this theme?"
+msgstr "Бажаєте завантажити цю тему?"
+
+msgid "Do you want to extract all the save games?"
+msgstr "Бажаєте розпакувати всі файли збрежень"
+
+msgid "Do you want to extract the save game?"
+msgstr "Бажаєте розпакувати файл збереження?"
+
+msgid "Do you want to format:"
+msgstr "Ви хочете відфоматувати:"
+
+msgid "Do you want to install selected games?"
+msgstr "Бажаєте встановити виділені ігри?"
+
+msgid "Do you want to load the default theme?"
+msgstr "Бажаєте завантажити тему за замовчуванням"
+
+msgid "Do you want to move the file(s)? Any existing ones will be deleted!"
+msgstr "Бажаєте перемістити файл(и)? Будь-які існуючі вайли буде видалено."
+
+msgid "Do you want to re-init network?"
+msgstr "Бажаєте ініціалізувати мережу ще раз?"
+
+msgid "Do you want to start the game now?"
+msgstr "Бажаєте почати гру знову?"
+
+msgid "Do you want to sync free space info sector on all FAT32 partitions?"
+msgstr "Бажаєте синхронізувати показник вільного місця для всіх томів?"
+
+msgid "Do you wish to update/download all language files?"
+msgstr "Ви дійсно хочете оновити/завантажити усі мовні файли?"
+
+msgid "Dol Video Patch"
+msgstr "Патч Dol Відео"
+
+msgid "Download"
+msgstr "Завантажити"
+
+msgid "Download Now"
+msgstr "Завантажити вже"
+
+msgid "Download finished"
+msgstr "Завантаження завершено"
+
+msgid "Downloading 3D Covers"
+msgstr "Завантаження 3D обкладинок"
+
+msgid "Downloading Custom Banners"
+msgstr "Завантаження власних банерів"
+
+msgid "Downloading Flat Covers"
+msgstr "Завантаження пласких обкладинок"
+
+msgid "Downloading Full HQ Covers"
+msgstr "Завантаження повних HQ обкладинок"
+
+msgid "Downloading Full LQ Covers"
+msgstr "Завантаження повних LQ обкладинок"
+
+msgid "Downloading Custom Disc Artwork"
+msgstr "Завантаження власного малюнка диска"
+
+msgid "Downloading file..."
+msgstr "Завантаження файла..."
+
+msgid "Downloading image:"
+msgstr "Завантаження зображення:"
+
+msgid "Downloading Original Disc Artwork"
+msgstr "Завантаження оригінального малюнка диска"
+
+msgid "Downloading pagelist:"
+msgstr "Завантаження списка сторінок"
+
+msgid "Dump NAND to EmuNAND"
+msgstr "Вивантажити NAND до EmuNAND"
+
+msgid "During zoom"
+msgstr "Під час зближення"
+
+msgid "Dutch"
+msgstr "Голандська"
+
+msgid "ERROR"
+msgstr "ПОМИЛКА"
+
+msgid "ERROR:"
+msgstr "ПОМИЛКА:"
+
+msgid "ERROR: Can't set up theme."
+msgstr "ПОМИЛКА: Не вдається встановити тему."
+
+msgid "EmuNAND WAD Manager"
+msgstr "EmuNAND WAD менеджер"
+
+msgid "EmuNAND Channel Mode"
+msgstr "Режим каналів EmuNAND"
+
+msgid "EmuNAND Channel Path"
+msgstr "Шлях до каналів EmuNAND"
+
+msgid "EmuNAND Channels"
+msgstr "Канали EmuNAND"
+
+msgid "EmuNAND Save Mode"
+msgstr "Режим збереження EmuNAND"
+
+msgid "EmuNAND Save Path"
+msgstr "Шлях до збережень EmuNAND"
+
+msgid "Emulated NAND"
+msgstr "Емульований NAND"
+
+msgid "English"
+msgstr "Англійська"
+
+msgid "Enter Path"
+msgstr "Виберіть шлях"
+
+msgid "Error"
+msgstr "Помилка"
+
+msgid "Error !"
+msgstr "Помилка !"
+
+#, c-format
+msgid "Error creating path: %s"
+msgstr "Помилка створення шляху: %s"
+
+msgid "Error opening downloaded file"
+msgstr "Помилка відкриття завантаженого файла"
+
+msgid "Error reading Disc"
+msgstr "Помилка читання диска"
+
+msgid "Error reading disc"
+msgstr "Помилка читання диска"
+
+#, c-format
+msgid "Error when downloading file: %i"
+msgstr "Помилка при завантаженні файла: %i"
+
+msgid "Error while downloding file"
+msgstr "Помилка під час завантаження файла"
+
+msgid "Error while opening the zip."
+msgstr "Помилка під час відкриття архіва."
+
+msgid "Error while transfering data."
+msgstr "Помиллка під час передавання данних."
+
+msgid "Error while updating USB Loader GX."
+msgstr "Помилка під час оновлення USB Loader GX. "
+
+msgid "Error writing the data."
+msgstr "Помилка запису данних"
+
+msgid "Error:"
+msgstr "Помилка:"
+
+msgid "Error: Not enough space on SD."
+msgstr "Помилка: не достатньо місця на SD карті."
+
+msgid "Errors occured."
+msgstr "Сталась помилка"
+
+msgid "Everything"
+msgstr "Всі"
+
+msgid "Exit"
+msgstr "Вихід"
+
+msgid "Exit to where?"
+msgstr "Вийти куди?"
+
+msgid "Export All Saves to EmuNAND"
+msgstr "Експортувати всі збереження до EmuNAND"
+
+msgid "Export Miis to EmuNAND"
+msgstr "Експортувати персонажів Mii до EmuNAND"
+
+msgid "Export SYSCONF to EmuNAND"
+msgstr "Експортувати SYSCONF до EmuNAND"
+
+msgid "Extract Miis to the EmuNAND?"
+msgstr "Розпакувати персонажів Mii до EmuNAND?"
+
+msgid "Extract SYSCONF to the EmuNAND?"
+msgstr "Розпакувати SYSCONF до EmuNAND?"
+
+msgid "Extract Save to EmuNAND"
+msgstr "Розпакувати збереження до EmuNAND"
+
+msgid "Extracting file:"
+msgstr "Ропакування файла:"
+
+msgid "Extracting files..."
+msgstr "Розпакування файлів..."
+
+msgid "Extracting files:"
+msgstr "Розпакування файлів:"
+
+msgid "Extracting NAND files:"
+msgstr "Розпакування файлів NAND"
+
+msgid "F-Zero AX"
+msgstr ""
+
+msgid "Failed"
+msgstr "Не вдалось"
+
+msgid "Failed copying file"
+msgstr "Не вдалось копіювати файл"
+
+msgid "Failed formating"
+msgstr "Не вдалось відформатувати"
+
+msgid "Failed to extract all files. Savegame might not exist."
+msgstr "Не вдалось розпакувати всі файли. Збереження гри може не існувати."
+
+msgid "Failed to extract."
+msgstr "Не вдалось розпакувати."
+
+msgid "Failed to initialize the USB storage device."
+msgstr "Не вдалось ініціалізувати USB-накопичувач."
+
+msgid "Failed to open partition"
+msgstr "Не вдалось відкрити том."
+
+msgid "Failed to read ticket."
+msgstr "Не вдалось прочитати тікет."
+
+msgid "Failed to read tmd file."
+msgstr "Не вдалось прочитати tmd файл."
+
+msgid "Failed to read WAD header."
+msgstr "Не вдалось прочитати назву WAD"
+
+msgid "Failed updating"
+msgstr "Не вдалось оновити"
+
+msgid "Favorite Level"
+msgstr "Улюблений рівень"
+
+msgid "Features"
+msgstr "Функції"
+
+msgid "Features Settings"
+msgstr "Налаштування функцій"
+
+msgid "Feb"
+msgstr "Лют"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File not found."
+msgstr "Файл не знайдено."
+
+msgid "File read/write error."
+msgstr "Полика читання\записування файла."
+
+msgid "Files extracted successfully."
+msgstr "Файли розпаковані успішно."
+
+#, c-format
+msgid "Filesize is %i Byte."
+msgstr "Розмір файла %i байт."
+
+msgid "Filesize is 0 Byte."
+msgstr "Розмір файла 0 байт."
+
+msgid "Flat Covers"
+msgstr "Пласкі обкладинки"
+
+msgid "Flip-X"
+msgstr "Перевернути по X"
+
+msgid "Folder"
+msgstr "Папка"
+
+msgid "Font Scale Factor"
+msgstr "Розмір шрифта"
+
+msgid "Force 16:9"
+msgstr "Примусове 16:9"
+
+msgid "Force 4:3"
+msgstr "Примусове 4:3"
+
+msgid "Force NTSC"
+msgstr "Примусове NTSC"
+
+msgid "Force NTSC480p"
+msgstr "Примусове NTSC480p"
+
+msgid "Force PAL480p"
+msgstr "Примусове PAL480p"
+
+msgid "Force PAL50"
+msgstr "Примусовий PAL50"
+
+msgid "Force PAL60"
+msgstr "Примусовий PAL60"
+
+msgid "Force Widescreen"
+msgstr "Примусовий широкий екран"
+
+msgid "Format"
+msgstr "Форматувати"
+
+msgid "Formatting, please wait..."
+msgstr "Форматування, зачекайте, будь ласка..."
+
+msgid "Found missing images"
+msgstr "Знайдено відсутні зображення"
+
+msgid "Frame"
+msgstr "Кадр"
+
+msgid "Frame Projection Height"
+msgstr "Висота проєкції кадра"
+
+msgid "Frame Projection Width"
+msgstr "Ширина проєкції кадра"
+
+msgid "Frame Projection X-Offset"
+msgstr "Зміщення проєкції кадра по X"
+
+msgid "Frame Projection Y-Offset"
+msgstr "Зміщення проєкції кадра по Y"
+
+msgid "Framebuffer"
+msgstr "Кадровий буфер"
+
+msgid "Frames"
+msgstr "Кадри"
+
+msgid "Free Space"
+msgstr "Вільне місце"
+
+msgid "French"
+msgstr "Французька"
+
+msgid "Full"
+msgstr "Повний"
+
+msgid "Full Cover Path"
+msgstr "Шлях до повних обкладинок"
+
+msgid "Full Covers"
+msgstr "Повні обкладинки"
+
+msgid "Full Menu"
+msgstr "Повне меню"
+
+msgid "Full Covers Download"
+msgstr "Завантаження повних обкладинок"
+
+msgid "Full shutdown"
+msgstr "Повне вимкнення"
+
+msgid "GAMEID_Gamename"
+msgstr "GAMEID_Назва гри"
+
+msgid "GC Banner Scale"
+msgstr "Розмір банера GC"
+
+msgid "GC Games"
+msgstr "Ігри GC
+
+msgid "GC Install 32K Aligned"
+msgstr "Встановлення GC 32K Aligned"
+
+msgid "GC Install Compressed"
+msgstr "Стиснене встановлення GC"
+
+msgid "GCT Cheatcodes Path"
+msgstr "Шлях до чітів GTC"
+
+msgid "GCT File created"
+msgstr "Файл GCT створено"
+
+msgid "GUI Settings"
+msgstr "Налаштування інтерфейса"
+
+msgid "GXDraw"
+msgstr ""
+
+msgid "GXFlush"
+msgstr ""
+
+msgid "GameCube Games Delete"
+msgstr "Видалити ігри GameCube"
+
+msgid "GameCube Install Menu"
+msgstr "Меню встановлення GameCube"
+
+msgid "Game ID"
+msgstr "ID гри"
+
+msgid "Game IOS"
+msgstr "IOS гри"
+
+msgid "Game Language"
+msgstr "Мова гри"
+
+msgid "Game Load"
+msgstr "Завантаження гри"
+
+msgid "Game Lock"
+msgstr "Блокування гри"
+
+msgid "Game Only"
+msgstr "Лише гра"
+
+msgid "Game Region"
+msgstr "Регіон гри"
+
+msgid "Game Size"
+msgstr "Розмір гри"
+
+msgid "Game Sound Mode"
+msgstr "Режим звуку в грі"
+
+msgid "Game Sound Volume"
+msgstr "Гучність звуку в грі"
+
+msgid "Game Split Size"
+msgstr "Розмір розділення гри"
+
+msgid "Game Window Mode"
+msgstr "Режим вікна гри"
+
+msgid "Game is already installed:"
+msgstr "Гра вже встановленна:"
+
+msgid "Games IOS"
+msgstr "IOS ігор"
+
+msgid "Game/Install Partition"
+msgstr "Том для ігор/встановлення"
+
+msgid "GameCube"
+msgstr ""
+
+msgid "GameCube Controller"
+msgstr "Контролер GameCube"
+
+msgid "GameCube Mode"
+msgstr "Режим GameCube"
+
+msgid "GameCube Source"
+msgstr "Джерело GameCube"
+
+msgid "Gamename [GAMEID]"
+msgstr "Назва гри [ID гри]"
+
+msgid "GameTDB"
+msgstr ""
+
+msgid "Games"
+msgstr "Ігри"
+
+msgid "Generating GXGameCategories.xml"
+msgstr "Генерація GXGameCategories.xml"
+
+msgid "Genre:"
+msgstr "Жанр:"
+
+msgid "German"
+msgstr "Німецька"
+
+msgid "Getting file list..."
+msgstr "Отримання списку файлів..."
+
+msgid "Getting game folder size..."
+msgstr "Отримання розміру папки гри..."
+
+msgid "Global Settings"
+msgstr "Основні налаштування"
+
+msgid "Grid Scroll Speed"
+msgstr "Швидкість прогортування сітки"
+
+msgid "HOME Menu"
+msgstr "HOME Меню"
+
+msgid "Hard Drive Settings"
+msgstr "Налаштування жорсткого диска"
+
+msgid "High Quality"
+msgstr "Висока якість"
+
+msgid "High/Low"
+msgstr "Висока/низька"
+
+msgid "Homebrew Apps Path"
+msgstr "Шлях до Homebrew застосунків"
+
+msgid "Homebrew Channel"
+msgstr ""
+
+msgid "Homebrew Launcher"
+msgstr "Homebrew завантажувач"
+
+msgid "Hooktype"
+msgstr "Тип гачка"
+
+msgid "Hour"
+msgstr "Година"
+
+msgid "How to Shutdown?"
+msgstr "Як вимкнути?"
+
+msgid "Import Categories"
+msgstr "Імпортувати категорії"
+
+msgid "Import operation successfully completed."
+msgstr "Операція імпортування успішно завершена."
+
+msgid "Importing categories"
+msgstr "імпортування категорій"
+
+#, c-format
+msgid "Incoming file %0.2fKB"
+msgstr "Вхідний файл розміром %0.2fкб"
+
+#, c-format
+msgid "Incoming file %0.2fMB"
+msgstr "Вхідний файл розміром %0.2fмб"
+
+msgid "Individual"
+msgstr "Індивідуальні"
+
+msgid "Information"
+msgstr "Інформація"
+
+msgid "Initializing Network"
+msgstr "Ініціалізація мережі"
+
+msgid "Insert Disk"
+msgstr "Вставте диск"
+
+msgid "Insert a Wii or a GameCube Disc!"
+msgstr "Вставте диск для Wii або GameCube!"
+
+msgid "Install"
+msgstr "Встановити"
+
+msgid "Install Canceled"
+msgstr "Встановлення скасоване"
+
+msgid "Install Directories"
+msgstr "Встановити папки"
+
+msgid "Install Error!"
+msgstr "Помилка встановлення!"
+
+msgid "Install Partitions"
+msgstr "Встановити томи"
+
+msgid "Install a game"
+msgstr "Встановити гру"
+
+msgid "Install error - Cleaning incomplete data."
+msgstr "Помилка встановлення - Очищення незавершених даних."
+
+msgid "Install finished"
+msgstr "Встановлення завершено"
+
+msgid "Installing GameCube Game..."
+msgstr "Встановлення гри для GameCube..."
+
+msgid "Installing content"
+msgstr "Встановлення змісту"
+
+msgid "Installing game:"
+msgstr "Встановлення гри:"
+
+msgid "Installing title..."
+msgstr "Встановлення заголовка..."
+
+msgid "Invalid IOS number entered. Number must be -1 for inherit or 200 - 255."
+msgstr "Введений недійсний номер IOS. Номер поинен бути -1 або від 200 до 255."
+
+msgid "Invalid WAD file."
+msgstr "Недійсний WAD файл"
+
+msgid "It seems that you have some information that will be helpful to us. Please pass this information along to the DEV team."
+msgstr "Здається, у вас ж інформація, яка може бути необхідною для нас. Будь ласка, передайте цю інформацію команді розробників."
+
+msgid "Italian"
+msgstr "Італійська"
+
+msgid "Jan"
+msgstr "Січ"
+
+msgid "Japanese"
+msgstr "Японська"
+
+msgid "Japanese Patch"
+msgstr "Патч японської"
+
+msgid "Joypad"
+msgstr "Джойстик"
+
+msgid "July"
+msgstr "Лип"
+
+msgid "June"
+msgstr "Чер"
+
+msgid "KPAD Read"
+msgstr "Читання KPAD"
+
+msgid "Keyboard"
+msgstr "Клавіатура"
+
+msgid "Korean"
+msgstr "Корейска"
+
+msgid "LED Activity"
+msgstr "Активність LED"
+
+msgid "Language Files"
+msgstr "Мовні файли"
+
+msgid "Language change:"
+msgstr "Змінити мову:"
+
+msgid "Languagefiles Path"
+msgstr "Шлях до мовних файлів"
+
+msgid "Languagepath changed."
+msgstr "Шлях до мовних файлів змінено."
+
+msgid "Launching Wii games with emulated NAND only works on d2x cIOS! Change game IOS to a d2x cIOS first."
+msgstr "Запуск ігор для Wii із емульованим NAND працює лише на d2x cIOS! Змініть спершу IOS гри на d2x cIOS."
+
+msgid "Launching emulated NAND channels only works on d2x cIOS! Change game IOS to a d2x cIOS first."
+msgstr "Запуск каналів на емульованому NAND працює лише на d2x cIOS! Змініть спершу IOS гри на d2x cIOS."
+
+msgid "Left"
+msgstr "Ліворуч"
+
+msgid "Like SysMenu"
+msgstr "Як і системне меню"
+
+msgid "List on game launch"
+msgstr "Список під час запуску гри"
+
+msgid "Load"
+msgstr "Завантажити"
+
+msgid "Load from SD/USB"
+msgstr "Завантаження з SD/USB"
+
+#, c-format
+msgid "Load file from: %s ?"
+msgstr "Завантажити файл з %s ?"
+
+msgid "Load this DOL as alternate DOL?"
+msgstr "Завантажити цей DOL, як альтернативний?"
+
+msgid "Loader Settings"
+msgstr "Налаштування завантажувача"
+
+msgid "Loaders IOS"
+msgstr "IOS завантажувача"
+
+msgid "Loading standard language."
+msgstr "Завантаження стандартної мови."
+
+msgid "Loading standard music."
+msgstr "Завантаження стандартної музики."
+
+msgid "Lock Console"
+msgstr "Заблокувати консоль"
+
+msgid "Lock USB Loader GX"
+msgstr "Заблокувати USB Loader GX"
+
+msgid "Locked"
+msgstr "Заблоковано"
+
+msgid "Log to file"
+msgstr "Зареєструвати у файлі"
+
+msgid "Loop Directory"
+msgstr "Зациклити папку"
+
+msgid "Loop Music"
+msgstr "Зациклити музику"
+
+msgid "Loop Sound"
+msgstr "Зациклити звук"
+
+msgid "Low Quality"
+msgstr "Низька якість"
+
+msgid "Low/High"
+msgstr "Низька/висока"
+
+msgid "MIOS (Default & Customs)"
+msgstr "MIOS (За замовчуванням і власні)"
+
+msgid "Main DOL"
+msgstr "Головний DOL"
+
+msgid "Main GameCube Games Path"
+msgstr "Головний шлях до ігор для GameCube"
+
+msgid "Main GameCube Path"
+msgstr "Головний шлях до GameCube"
+
+msgid "Main Path"
+msgstr "Головний шлях"
+
+msgid "Manual (40~120)"
+msgstr "Інструкція (40~120)"
+
+msgid "Mar"
+msgstr "Бер"
+
+msgid "Mark New Games"
+msgstr "Позначати нові ігри"
+
+msgid "May"
+msgstr "Тра"
+
+msgid "Memory Card Blocks Size"
+msgstr "Розмір блоків карти пам'яті"
+
+msgid "Memory Card Emulation"
+msgstr "Емуляція карти пам'яті"
+
+msgid "Memory Card with 2043 blocs has issues with Nintendont. Use at your own risk."
+msgstr "Карта пам'яті із 2043 блоками спричиняє проблеми із Nintendont. Використовуйте а на ваший страх і ризик."
+
+msgid "Messageboard Update"
+msgstr "Оновлення дошки повідомлень"
+
+msgid "Motion+ Video"
+msgstr "Відео Motion+"
+
+msgid "Mount DVD drive"
+msgstr "Монтувати DVD дикс"
+
+msgid "Mount USB at launch"
+msgstr "Монтувати USB при запуску"
+
+msgid "Move File"
+msgstr "Перемістити файл"
+
+msgid "Multiple Partitions"
+msgstr "Декілька томів"
+
+msgid "Music Loop Mode"
+msgstr "Режим зациклення музики"
+
+msgid "Music Volume"
+msgstr "Гучність"
+
+msgid "NMM Mode"
+msgstr "Режим NMM"
+
+msgid "NAND Chan. Emulation"
+msgstr "Емуляція каналів NAND"
+
+msgid "NAND Channels"
+msgstr "NAND канали"
+
+msgid "NAND Emu Channel Path"
+msgstr "Шлях до емульованих каналів NAND"
+
+msgid "NAND Emu Path"
+msgstr "Шлях до емуляції NAND"
+
+msgid "NAND Emulation"
+msgstr "Емуляція NAND"
+
+msgid "NAND emulation is only available on D2X cIOS!"
+msgstr "Емуляція NAND доступна лише на D2X cIOS!"
+
+msgid "NAND emulation only works on FAT/FAT32 partitions!"
+msgstr "Емуляція NAND працює лише на томах FAT/FAT32"
+
+msgid "NAND Saves Emulation"
+msgstr "Емуляція збережень NAND"
+
+msgid "Native Controller"
+msgstr "'Рідний' контролер"
+
+msgid "Neek"
+msgstr ""
+
+msgid "Neek NAND path selection failed."
+msgstr "Не вдалось обрати шлях до Neek NAND."
+
+msgid "Neek kernel file not found."
+msgstr "Файл ядра Neel не знайдено."
+
+msgid "Neek kernel loading failed."
+msgstr "Не вдалось завантажити ядро Neek"
+
+msgid "Neek2o does not support 'EmuNAND Channel Path' on SD! Please setup Uneek2o instead."
+msgstr "Neek2o не підтримує 'Шлях до каналів EmuNAND' на SD карті! Будь ласка, встановіть натомість Uneek2o."
+
+msgid "Neither"
+msgstr "Жодне"
+
+msgid "Network is not initiated."
+msgstr "Мережа не ініціалізована."
+
+msgid "Next"
+msgstr "Наступний"
+
+msgid "Nintendont"
+msgstr ""
+
+msgid "Nintendont Loader Path"
+msgstr "Шлях до завантажувача"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "No Cheatfile found"
+msgstr "Файл з чітами не знайдено."
+
+msgid "No DOL file found on disc."
+msgstr "DOL-файл не знайдено на диску."
+
+msgid "No Disc+"
+msgstr "Без Disc+"
+
+msgid "No Splitting"
+msgstr "Не розділювати"
+
+msgid "No URL or Path specified."
+msgstr "Ні URL, ні шлях не встановлено."
+
+msgid "No WBFS or FAT/NTFS/EXT partition found"
+msgstr "Не знайдено ні WBFS, ні FAT/NTFS/EXT томів."
+
+msgid "No Wiinnertag.xml found in the config path. Do you want an example file created?"
+msgstr "Wiinnertag.xml не знайдено в шляху до конфігурації. Бажаєте створити приклад файла?"
+
+msgid "No change"
+msgstr "Без змін"
+
+msgid "No cheats were selected! Should the GCT file be deleted?"
+msgstr "Чіти не вибрано? Чи слід видалити GCT файл?"
+
+msgid "No data could be read."
+msgstr "Не вдалось прочитати дані.."
+
+msgid "No disc inserted."
+msgstr "Диск не вставлений."
+
+msgid "No favorites selected."
+msgstr "Уподобань не вибрано."
+
+msgid "No files missing!"
+msgstr "Всі файли присутні!"
+
+msgid "No games found on the disc"
+msgstr "Не знайдено жодної гри на диску"
+
+msgid "No language files to update on your devices! Do you want to download new language files?"
+msgstr "На ваших пристроях немає жодних мовних файлів, що потребують оновлення. Бажаєте завантажити нові мовні файли?"
+
+msgid "No new updates."
+msgstr "Немає оновлень."
+
+msgid "No themes found on the site."
+msgstr "На сайті не знайдено жодної теми."
+
+msgid "No themes found."
+msgstr "Тем не знайдено."
+
+msgid "No WAD file found in this folder."
+msgstr "Не знайдено жодних WAD файлів у цій папці."
+
+msgid "NoSSL only"
+msgstr "Лише NoSSL"
+
+msgid "None"
+msgstr "Нічого"
+
+msgid "Normal"
+msgstr "Звичайний"
+
+msgid "Not Initialized"
+msgstr "Не ініціалізовано"
+
+msgid "Not a Wii or a GameCube Disc"
+msgstr "Це не диск для Wii або GameCube"
+
+msgid "Not a valid URL"
+msgstr "Недійсна URL"
+
+msgid "Not a valid URL path"
+msgstr "Не дійсний шлях до URL"
+
+msgid "Not a valid domain"
+msgstr "Недійсний домен."
+
+msgid "Not enough free memory."
+msgstr "Недостатньо вільного місця."
+
+msgid "Not enough free space on device."
+msgstr "Недостатньо вільного місця на пристрої."
+
+msgid "Not enough free space!"
+msgstr "Недостатньо вільного місця!"
+
+msgid "Not enough memory for FST."
+msgstr "Недостатньо вільного місця для FST"
+
+msgid "Not enough memory."
+msgstr "Недостатньо вільного місця."
+
+msgid "Not required"
+msgstr "Не є необхідним"
+
+msgid "Unsupported format!"
+msgstr "Непідтримуваний формат!"
+
+msgid "Nothing selected to delete."
+msgstr "Нічого не вибрано, щоб видаляти."
+
+msgid "Nothing selected to install."
+msgstr "Нічого не вибрано, щоби встановлювати."
+
+msgid "Nov"
+msgstr "Лис"
+
+msgid "OFF"
+msgstr "ВИМК."
+
+msgid "OFF (Extended)"
+msgstr "ВИМК. (Додатково)"
+
+msgid "OFF (Safe)"
+msgstr "ВИМК. (Безпечно)"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "ON"
+msgstr "ВВІМК."
+
+msgid "ON (Low)"
+msgstr "ВВІМК. (Низький)"
+
+msgid "ON (Medium)"
+msgstr "ВВІМК. (Середній)"
+
+msgid "ON (Multi)"
+msgstr "ВВІМК. (Мульти)"
+
+msgid "ON (High)"
+msgstr "ВВІМК. (Високий)"
+
+msgid "OSReport"
+msgstr ""
+
+msgid "OSSleepThread"
+msgstr ""
+
+msgid "Ocarina"
+msgstr "Ocarina"
+
+msgid "Ocarina is not supported with neek2o yet. Launch game anyway?"
+msgstr "'Ocarina' не підтримується neek2o, поки що. Завантажити гру все рівно?"
+
+msgid "Oct"
+msgstr "Жов"
+
+msgid "Official Site:"
+msgstr "Офіційний сайт:"
+
+msgid "Offset"
+msgstr "Зміщення"
+
+msgid "Ok"
+msgstr "Ок"
+
+msgid "One Line A"
+msgstr "Одна смуга A"
+
+msgid "One Line B"
+msgstr "Одна смуга B"
+
+msgid "Only Game Partition"
+msgstr "Лише том гри"
+
+msgid "Only for Install"
+msgstr "Лише при встановленні"
+
+msgid "Original"
+msgstr "Оригінальний"
+
+msgid "Original/Customs"
+msgstr "Оригінальні/Власні"
+
+msgid "PAD Hook"
+msgstr "Гачок PAD"
+
+msgid "PAL50 Patch"
+msgstr "Патч PAL50"
+
+msgid "Parental Control"
+msgstr "Батьківський контроль"
+
+msgid "Partial"
+msgstr "Частковий"
+
+msgid "Partition"
+msgstr "Том"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Password Changed"
+msgstr "Пароль змінено"
+
+msgid "Password has been changed"
+msgstr "Пароль змінено"
+
+msgid "Patch Country Strings"
+msgstr "Патчити рядки країни"
+
+msgid "Path Changed"
+msgstr "Шлях змінено"
+
+msgid "Permission denied."
+msgstr "Дозвіл не надано."
+
+msgid "Pick from a list"
+msgstr "Оберіть із списку"
+
+msgid "Pixels"
+msgstr "Пікселі"
+
+msgid "Play Count"
+msgstr "Кількість запусків"
+
+msgid "Play Next"
+msgstr "Грати наступне"
+
+msgid "Play Once"
+msgstr "Грати раз"
+
+msgid "Play Previous"
+msgstr "Грати попереднє"
+
+msgid "Playing Music:"
+msgstr "Грає музика:"
+
+msgid "Please enter a valid address e.g. wiimmfi.de"
+msgstr "Будь ласка, введіть дійсну адресу, наприклад, wiimmfi.de"
+
+msgid "Please wait"
+msgstr "Будь ласка, зачекайте"
+
+msgid "Please wait..."
+msgstr "Будь ласка, зачекайте..."
+
+msgid "Power off the Wii"
+msgstr "Вимкнути Wii"
+
+msgid "Prev"
+msgstr "Попередній"
+
+msgid "Private Server"
+msgstr "Приватний сервер"
+
+msgid "Process finished."
+msgstr "Процес завершено."
+
+msgid "Progressive Patch"
+msgstr "Прогресивний патч"
+
+msgid "Prompts Buttons"
+msgstr "Кнопки запитів"
+
+msgid "Published by"
+msgstr "Опубліковано: "
+
+msgid "Quick Boot"
+msgstr "Швидкий запуск"
+
+msgid "Random Directory Music"
+msgstr "Музика з рандомної папки"
+
+msgid "Real NAND"
+msgstr "Справжній NAND"
+
+msgid "Receiving file from:"
+msgstr "Отримання файлів з:"
+
+msgid "Region Free"
+msgstr "Без регіона"
+
+msgid "Region Patch"
+msgstr "Патч регіона"
+
+msgid "Released"
+msgstr "Випущено:"
+
+msgid "Reload SD"
+msgstr "Перезавантажити SD карту"
+
+msgid "Reloading game list now, please wait..."
+msgstr "Перезавантаження списку ігор зараз, будь ласка, зачекайте..."
+
+msgid "Remember Last Game"
+msgstr "Пам'ятати останню гру"
+
+msgid "Remember Unlock"
+msgstr "Розблокувати запам'ятовування"
+
+msgid "Remove Read Speed Limit"
+msgstr "Скинути обмеження швидкості читання"
+
+msgid "Remove update"
+msgstr "Видалити оновлення"
+
+msgid "Rename Game Title"
+msgstr "Видалити заголовок гри"
+
+msgid "Rename category"
+msgstr "Перейменувати категорію"
+
+msgid "Reset"
+msgstr "Скинути"
+
+msgid "Reset All Game Settings"
+msgstr "Скинути всі налаштування гри"
+
+msgid "Reset BG Music"
+msgstr "Скинути фонову музику"
+
+msgid "Reset Cached Titles"
+msgstr "Скинути заголовки в кеші"
+
+msgid "Reset Play Count"
+msgstr "Скинути лічильник запусків"
+
+msgid "Reset to default BGM?"
+msgstr "Скинути до стандартної фонової музики?"
+
+msgid "Restarting..."
+msgstr "Перезапуск..."
+
+msgid "Return"
+msgstr "Повернутись"
+
+msgid "Return To"
+msgstr "Повернутись до"
+
+msgid "Return to Wii Menu"
+msgstr "Повернутись в меню Wii"
+
+msgid "Right"
+msgstr "Праворуч"
+
+msgid "Rotating Disc"
+msgstr "Обертання диска"
+
+msgid "Round"
+msgstr "Раунд"
+
+msgid "Rumble"
+msgstr "Вібрація"
+
+msgid "SChinese"
+msgstr "Китайська спрощена"
+
+msgid "SD"
+msgstr ""
+
+msgid "SD Card could not be accessed."
+msgstr "Не вдалось отримати доступ до SD карти."
+
+msgid "SD Card Mode"
+msgstr "Режим SD карти"
+
+msgid "SD GameCube Games Path"
+msgstr "Шлях до ігор для GameCube на SD карті"
+
+msgid "SD GameCube Path"
+msgstr "Шлях до GameCube на SD карті."
+
+msgid "SD Path"
+msgstr "Шлях до SD карти"
+
+msgid "SFX Volume"
+msgstr "Гучність ефектів"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Save Failed. No device inserted?"
+msgstr "Збереження не вдалось. Пристрій не вставлений?"
+
+msgid "Save Game List to"
+msgstr "Зберегти список ігор в"
+
+msgid "Save List"
+msgstr "Зберегти список"
+
+msgid "Save Path"
+msgstr "Зберегти шлях"
+
+msgid "Saved"
+msgstr "Збережено"
+
+msgid "Savegame might not exist for this game."
+msgstr "Ймовірно, збереження для цієї гри не існує."
+
+msgid "Screensaver"
+msgstr "Скрінсейвер"
+
+msgid "Screenshot"
+msgstr "Знімок екрана"
+
+msgid "Select"
+msgstr "Вибрати"
+
+msgid "Select DOL Offset"
+msgstr "Вибреріть зміщення DOL"
+
+msgid "Select a DOL"
+msgstr "Виберить DOL"
+
+msgid "Select a DOL from game"
+msgstr "Вибрати DOL із гри"
+
+msgid "Select game categories"
+msgstr "Виберіть категорії ігор"
+
+msgid "Select loader mode"
+msgstr "Виберіть режим завантажувача"
+
+msgid "Select the EmuNAND path to use."
+msgstr "Виберіть шлях до EmuNAND для використання."
+
+msgid "Select titles sources."
+msgstr "Виберіть джерела заголовків."
+
+msgid "Sept"
+msgstr "Вер"
+
+msgid "Set Search-Filter"
+msgstr "Встановити пошуковий фільтр"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "Settings File"
+msgstr "Файл налаштувань"
+
+msgid "Show Categories"
+msgstr "Показувати категорії"
+
+msgid "Show Favorite on banner"
+msgstr "Показувати вподобання на банері"
+
+msgid "Show Free Space"
+msgstr "Показувати вільне місце"
+
+msgid "Show Game Count"
+msgstr "Показувати кількість ігор"
+
+msgid "Show Play Count"
+msgstr "Показувати кількість запусків"
+
+msgid "Show SD"
+msgstr "Показувати SD"
+
+msgid "Shutdown System"
+msgstr "Вимкнути систему"
+
+msgid "Shutdown Wii"
+msgstr "Вимкнути Wii"
+
+msgid "Skip Errors"
+msgstr "Пропустити помилки"
+
+msgid "Skip IPL"
+msgstr "Пропустити IPL"
+
+msgid "BBA Emulation"
+msgstr "Емуляція BBA"
+
+msgid "BBA Net Profile"
+msgstr "Мережевий профіль BBA"
+
+msgid "Sneek Video Patch"
+msgstr "Патч відео Sneek"
+
+msgid "Sorry, the theme downloader menu is not working anymore because http://wii.spiffy360.com now requires user registration."
+msgstr "Вибачте, меню завантаження тем більше не працює, оскільки http://wii.spiffy360.com тепер потребує реєстрації."
+
+msgid "Sort alphabetically"
+msgstr "Сортувати по алфавіту"
+
+msgid "Sort by number of players"
+msgstr "Сортувати по кількості гравців"
+
+msgid "Sort by rank"
+msgstr "Сортувати по популярності"
+
+msgid "Sort order by most played"
+msgstr "Сортувати по частоті запусків"
+
+msgid "Sound"
+msgstr "Звук"
+
+msgid "Sound Settings"
+msgstr "Налаштування звуку"
+
+msgid "Sound+BGM"
+msgstr "Звук и фонова музика"
+
+msgid "Sound+Quiet"
+msgstr "Звук+тиша"
+
+msgid "Spanish"
+msgstr "Іспанська"
+
+msgid "Special thanks to:"
+msgstr "Окремо дякуемо:"
+
+msgid "Split each 2GB"
+msgstr "Розділювати кожних 2гб"
+
+msgid "Split each 4GB"
+msgstr "Розділювати кожних 4гб"
+
+msgid "Standby"
+msgstr "Режим очікування"
+
+msgid "Start"
+msgstr "Почати"
+
+msgid "Success"
+msgstr "Успіх"
+
+msgid "Success."
+msgstr "Успіх."
+
+msgid "Success:"
+msgstr "Успіх:"
+
+msgid "Successfully Saved"
+msgstr "Успішно збережено"
+
+msgid "Successfully Updated"
+msgstr "Успішно оновлено"
+
+msgid "Successfully copied"
+msgstr "Успішно копійовано"
+
+msgid "Successfully deleted:"
+msgstr "Успішно видалено:"
+
+msgid "Successfully extracted theme."
+msgstr "Успішно розпаковано тему."
+
+msgid "Successfully installed:"
+msgstr "Успішно встановлено:"
+
+msgid "Successfully updated."
+msgstr "Успішно оновлено."
+
+msgid "Switching to channel list mode."
+msgstr "Перемикання до режиу списку каналів."
+
+msgid "Sync FAT32 FS Info"
+msgstr "Стнхронізувати інформацію про FAT32 FS"
+
+msgid "Synchronizing..."
+msgstr "Синхронізація..."
+
+msgid "System Default"
+msgstr "За замовчуванням системи"
+
+msgid "System Proxy Settings"
+msgstr "Налаштування системного Proxy"
+
+msgid "TChinese"
+msgstr "Китайська традиційна"
+
+msgid "TXT Cheatcodes Path"
+msgstr "Шлях до TXT чіткодів"
+
+msgid "The .them file was not found in the zip."
+msgstr "Файл .them не знайдено в архіві."
+
+msgid "The Force Widescreen setting requires DIOS MIOS v2.1 or more. This setting will be ignored."
+msgstr "Налаштування 'Примусовий широкий екран' вимагає DIOS MIOS v2.1 або вищої. Тому це налаштування буде проігноровано."
+
+msgid "The Miis will be extracted to your EmuNAND path and EmuNAND channel path. Attention: All existing files will be overwritten."
+msgstr "Персонажі Mii будуть розпаковані до вашого шляху до EmuNAND та шляху до каналів EmuNAND. Увага: всі існуючі файли буде перезаписано."
+
+msgid "The No Disc+ setting requires DIOS MIOS 2.2 update2. This setting will be ignored."
+msgstr "Налаштування 'Без Disc+' вимагає DIOS MIOS 2.2 update2. Тому це налаштування буде проігноровано."
+
+msgid "The SYSCONF file will be extracted to your EmuNAND path and EmuNAND channel path. Attention: All existing files will be overwritten."
+msgstr "Файл SYSCONF буде розпаковано до вашого шляху до EmuNAND та шляху до каналів EmuNAND. Увага: всі існуючі файли буде перезаписано."
+
+msgid "The application might crash if there is currently a read/write access to the SD card!"
+msgstr "Застосунок може вилетіти, якщо до SD карти уже є доступ для читання/записування!"
+
+msgid "The entered directory does not exist. Would you like to create it?"
+msgstr "Введеної папки не існує. Бажаєте створити її?"
+
+msgid "The files will be extracted to your EmuNAND save and channel path. Attention: All existing files will be overwritten."
+msgstr "Файли будуть розпаковані до вашого шляху до EmuNAND та шляху до каналів EmuNAND. Увага: всі існуючі файли буде перезаписано."
+
+msgid "The game is on SD Card."
+msgstr "Гра знаходиться на SD карті."
+
+msgid "The game is on USB."
+msgstr "Гра знаходиться на USB."
+
+msgid "The save game will be extracted to your EmuNAND path."
+msgstr "Збереження гри буде розпаковано до вашого шляху до EmuNAND."
+
+msgid "The save games will be extracted to your EmuNAND save and channel path. Attention: All existing files will be overwritten."
+msgstr "Збереження ігор будуть розпаковані до вашого шляху до EmuNAND та шляху до каналів EmuNAND. Увага: всі існуючі файли буде перезаписано."
+
+msgid "The WAD file was installed"
+msgstr "WAD файл встановлено"
+
+#, c-format
+msgid "The WAD installation failed with error %i"
+msgstr "Встановлення WAD не вдалося через помилку: %i"
+
+msgid "Theme Downloader"
+msgstr "Завантажувач тем"
+
+msgid "Theme Menu"
+msgstr "Меню тем"
+
+msgid "Theme Path"
+msgstr "Шлях до тем"
+
+msgid "Theme Title:"
+msgstr "Заголовок теми:"
+
+msgid "Themes by www.spiffy360.com"
+msgstr "Теми із www.spiffy360.com"
+
+msgid "This IOS is the BootMii IOS. If you are sure it is not BootMii and you have something else installed there than ignore this warning."
+msgstr "Цей IOS є IOS BootMii. Якщо ви впевнені, що це не так і ви встановили щось інше туди, проігноруйте це попередження."
+
+msgid "This IOS was not found on the titles list. If you are sure you have it installed than ignore this warning."
+msgstr "Цей IOS не знайдено в списку заголовків. Якщо ви впевнені, що встановили його, проігноруйте це попередження."
+
+msgid "This Nintendont version does not support games on USB."
+msgstr "Ця версія Nintendont не підтримує ігри з USB."
+
+msgid "This Nintendont version is not correctly supported. Auto boot disabled."
+msgstr "Ця версія Nintendont не підтримується правильно. Автозапуск вимкнено."
+
+msgid "This game has multiple discs. Please select the disc to launch."
+msgstr "Ця гра має декілька дисків. Будь ласка, оберіть, який диск запустити."
+
+msgid "This path must be on SD!"
+msgstr "Цей шлях повинен бути на SD карті!"
+
+msgid "This setting doesn't work in SD card mode."
+msgstr "Це налаштування не працює в режимі SD карти."
+
+msgid "Time left:"
+msgstr "Залишилось часу:"
+
+msgid "Timer Fix"
+msgstr "Виправлення таймера"
+
+msgid "Title Launcher"
+msgstr "Завантажувач тайтлів"
+
+msgid "Titles Path"
+msgstr "Шлях до тайтлів"
+
+msgid "Titles From"
+msgstr "Тайтли з"
+
+msgid "To run GameCube games from Disc you need to set the GameCube mode to MIOS in the game settings."
+msgstr "Щоб запустити гру для GameCube з диска вам треба встановити режим GameCube MIOS в налаштуваннях гри."
+
+#, c-format
+msgid "To run GameCube games with %s you need to place them on an USB FAT32 partition."
+msgstr "Щоби запустити гру для GameCube із %s вам треба встановити на том в форматі FAT32 на USB."
+
+#, c-format
+msgid "To run GameCube games with %s you need to set your 'Main GameCube Path' on the first primary FAT32 partition."
+msgstr "Щоби запускаи ігри для GameCube із %s вам треба встановити в 'Головному шляху до GameCube' папку на першому простому FAT32 тому."
+
+#, c-format
+msgid "To run GameCube games with %s you need to set your 'Main GameCube Path' on the first primary partition of the Hard Drive."
+msgstr "Щоби запускаи ігри для GameCube із %s вам треба встановити в 'Головному шляху до GameCube' папку на першому простому тому жорсткого диска."
+
+#, c-format
+msgid "To run GameCube games with %s you need to set your 'Main GameCube Path' to an USB FAT32 partition."
+msgstr "Щоби запускаи ігри для GameCube із %s вам треба встановити в 'Головному шляху до GameCube' папку на FAT32 тому."
+
+#, c-format
+msgid "To run GameCube games with %s you need to use a 512 bytes/sector Hard Drive."
+msgstr "Щоби запускаи ігри для GameCube із %s вам треба використовувати жорсткий диск із розміром секторів 512 байт."
+
+#, c-format
+msgid "To run GameCube games with %s you need to use a partition with 32k bytes/cluster or less."
+msgstr "Щоби запускати ігри для GameCube із %s вам треба використовувати том із 32 тис. байтовим кластером або менше."
+
+msgid "To run GameCube games with Devolution you need the loader.bin file in your Devolution Loader Path."
+msgstr "Щоби запускати ігри для GameCube із Devolution вам треба вибрати файл loader.bin в шляху до завантажувача Devolution."
+
+msgid "To run GameCube games with Nintendont you need the boot.dol file in your Nintendont Loader Path."
+msgstr "Щоби запускати ігри для GameCube із Nintendont вам треба вибрати файл boot.dol в шляху до завантажувача Nintendont."
+
+#, c-format
+msgid "To use HID with %s you need the %s file."
+msgstr "Щоб використовувати HID із %s вам потрібен файл %s."
+
+msgid "To use neek you need to set your 'EmuNAND Channel Path' on the first primary partition of the Hard Drive."
+msgstr "Щоб використовувати neek вам треба встановити в 'Шляху до каналів EmuNAND' папку на першому простому тому на жорсткому диску."
+
+msgid "To use neek you need to set your 'EmuNAND Channel Path' to a FAT32 partition."
+msgstr "Щоб використовувати neek вам треба встановити в 'Шляху до каналів EmuNAND' папку на тому в форматі FAT32."
+
+msgid "To use neek you need to use a 512 bytes/sector Hard Drive."
+msgstr "Щоб використовувати neek вам треба використовувати жорсткий диск із секторів 512 байт."
+
+#, c-format
+msgid "To use ocarina with %s you need the %s file."
+msgstr "Щоб використовувати ocarina із %s вам потрібен файл %s."
+
+msgid "Tooltip Delay"
+msgstr "Затримка підказок"
+
+msgid "Tooltips"
+msgstr "Підказки"
+
+msgid "Transfer failed"
+msgstr "Передавання не вдалося."
+
+msgid "Triforce Arcade Mode"
+msgstr "Аркадний режим Triforce"
+
+msgid "Two Lines"
+msgstr "Дві смуги"
+
+msgid "USB"
+msgstr ""
+
+msgid "USB Device not initialized."
+msgstr "USB-накопичувач не ініціалізовано."
+
+msgid "USB Loader GX is protected"
+msgstr "USB Loader GX заблокований"
+
+msgid "USB Port"
+msgstr "Порт USB"
+
+msgid "USB Port changing is only supported on Hermes cIOS."
+msgstr "Зміна портів USB підтримується лише на Hermes cIOS."
+
+msgid "USB-HID Controller"
+msgstr "USB-HID Контролер"
+
+msgid "USBloaderGX couldn't verify Nintendont boot.dol file. Launch this boot.dol anyway?"
+msgstr "USBloaderGX не вдалось перевірити boot.dol файл Nintendont. Запустити цей boot.dol все рівно?"
+
+msgid "USBloaderGX couldn't write Nintendont config file. Launch Nintendont anyway?"
+msgstr "USBloaderGX не вдалось записати конфігураційний файл Nintendont. Запустити Nintendont все рівно?"
+
+msgid "USBloaderGX r1218 is required for Nintendont Alpha v0.1. Please update your Nintendont boot.dol version."
+msgstr "USBloaderGX r1218 необхідний для Nintendont Alpha v0.1. Будь ласка, оновіть вашу версію Nintendont boot.dol."
+
+msgid "Uninstall"
+msgstr "Деінсталювати"
+
+msgid "Uninstall Game"
+msgstr "Деінсталювати гру"
+
+msgid "Uninstall Menu"
+msgstr "Деінсталювати меню"
+
+msgid "Uninstall all"
+msgstr "Деінсталювати все"
+
+msgid "Unknown"
+msgstr "Невідомо"
+
+msgid "Unlock USB Loader GX"
+msgstr "Розблокувати USB Loader GX"
+
+msgid "Unlocked"
+msgstr "Розблоковано"
+
+msgid "Unsupported format, try to extract manually TempTheme.zip."
+msgstr "Непідтримуваний формат, спробуйте розпакувати TempTheme.zip власноруч."
+
+msgid "Update"
+msgstr "Оновлення"
+
+msgid "Update Files"
+msgstr "Оновити файли"
+
+msgid "Update all Language Files"
+msgstr "Оновити всі мовні файли"
+
+msgid "Update Failed"
+msgstr "Оновлення не вдалося"
+
+msgid "Update Successful"
+msgstr "Оновлено успішно"
+
+msgid "Updating Language Files:"
+msgstr "Оновлення мовних файлів:"
+
+msgid "Uploaded ZIP file installed to homebrew directory."
+msgstr "Завантажений ZIP-файл встановлений в в папку homebrew"
+
+msgid "Use System Font"
+msgstr "Використовувати системний шрифт"
+
+msgid "Use global"
+msgstr "Використовувати основний"
+
+msgid "VBI (Default)"
+msgstr ""
+
+msgid "VIDTV Patch"
+msgstr "Патч VIDTV"
+
+msgid "Version:"
+msgstr "Версія:"
+
+#, c-format
+msgid "Version: %s"
+msgstr "Версія: %s"
+
+msgid "Video Deflicker"
+msgstr "Фільтр мерехтіння відео"
+
+msgid "Video Mode"
+msgstr "Відео режим"
+
+msgid "Video Scale Value"
+msgstr "Розмір відео"
+
+msgid "Video offset"
+msgstr "Зміщення відео"
+
+msgid "Video scale"
+msgstr "Розмір відео"
+
+msgid "Video Width"
+msgstr "Ширина відео"
+
+msgid "Virtual Pointer Speed"
+msgstr "Швидкість віртуального вказівника"
+
+msgid "WDM Files Path"
+msgstr "Шлях до WDM файлів"
+
+msgid "WIP Patches Path"
+msgstr "Шлях до патчів QIP"
+
+msgid "Waiting..."
+msgstr "Очікування..."
+
+msgid "Warning"
+msgstr "Попередження"
+
+msgid "Warning:"
+msgstr "Попередження:"
+
+msgid "What do you want to do?"
+msgstr "Що ви хочете зробити?"
+
+msgid "What do you want to update?"
+msgstr "Що ви хочете оновити?"
+
+msgid "What should be deleted for this game title:"
+msgstr "Що повинно бути видалено для цієї гри?"
+
+msgid "What to extract from NAND?"
+msgstr "Що розпакувати із NAND?"
+
+msgid "Where should the game be installed to?"
+msgstr "Куди слід встановити гру?"
+
+msgid "Where to dump NAND?"
+msgstr "Куди вивантажити NAND?"
+
+msgid "Which device do you want to use for Nintendont files?"
+msgstr "Який пристрій ви бажаєте використовувати для файлів Nintendont?"
+
+msgid "Which mode do you want to use?"
+msgstr "Який режим ви хочете використовувати?"
+
+msgid "WiFi Features"
+msgstr "Функції WiFi"
+
+msgid "Widescreen Factor"
+msgstr "Фактор широкого екрана"
+
+msgid "Widescreen Fix"
+msgstr "Виправлення широкого екрана"
+
+msgid "Wii Games"
+msgstr "Ігри для Wii"
+
+msgid "Wii Menu"
+msgstr "Меню Wii"
+
+msgid "Wii Settings"
+msgstr "Налаштування Wii"
+
+msgid "WiiTDB.xml"
+msgstr ""
+
+msgid "WiiTDB.xml is up to date."
+msgstr "WiiTDB.xml не потребує оновлення."
+
+msgid "WiiU Widescreen"
+msgstr "Широкий екран WiiU"
+
+msgid "Wiilight"
+msgstr "Підсвітка Wii"
+
+msgid "Wiimmfi"
+msgstr ""
+
+msgid "Wiinnertag"
+msgstr ""
+
+msgid "Wiinnertag Path"
+msgstr "Шлях до Wiinnertag"
+
+msgid "Wiinnertag requires you to enable automatic network connect on application start. Do you want to enable it now?"
+msgstr "Wiinnertag вимагає ввімкнення автоматичного підключення до мережі, щоб застосунок запустився. Бажаєте ввімкнути його вже?"
+
+msgid "Wiird Debugger"
+msgstr ""
+
+#, c-format
+msgid "Write error on file: %s"
+msgstr "Написати помилку в файлі: %s"
+
+msgid "Writing GXGameCategories.xml"
+msgstr ""
+
+msgid "Wrong Password"
+msgstr "Неправильный пароль"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "You are trying to select a FAT32/NTFS/EXT partition with cIOS 249 Rev < 18. This is not supported. Continue on your own risk."
+msgstr "Ви намагаєтесь вибрати том в форматі FAT32/NTFS/EXT із cIOS 249 Rev < 18, що не підтримується. Продовжуйте на ваший страх і ризик."
+
+msgid "You can select or format a partition or use the channel loader mode."
+msgstr "Ви можете вибрати або відформатувати том або використовувати режим завантажувача каналів."
+
+msgid "You cannot delete this category."
+msgstr "Ви не можете видалити цю категорію."
+
+msgid "You need neek2o to load EmuNAND from sub-folders."
+msgstr "Вам треба neek2o щоб завантажити EmuNAND із підпапок."
+
+msgid "You need to install DIOS MIOS Lite v1.2 or a newer version."
+msgstr "Вам треба встановити DIOS MIOS Lite v1.2 або новішої версії."
+
+msgid "You need to install an additional GameCube loader or select a different GameCube Mode to launch GameCube games from USB or SD card."
+msgstr "Вам треба встановити додатовий завантажувач GameCube або вибрати інший режим GameCube, щоб запускати ігри для GameCube із USB або SD карти."
+
+msgid "Your current GameCube partition is not compatible. Please update Nintendont."
+msgstr "Ваш поточний том для GameCube не сумісний. Будь ласка, оновіть Nintendont."
+
+msgid "Zoom Duration (Speed)"
+msgstr "Тривалість зближення (швидкість)"
+
+msgid "and translators for language files updates"
+msgstr "і перекладачам за оновлення мовних файлів"
+
+msgid "does not exist!"
+msgstr "не існує!"
+
+msgid "does not exist!  Loading game without cheats."
+msgstr "не існує! Завантаження гри без чітів."
+
+msgid "files left"
+msgstr "файлів залишилось"
+
+msgid "for FAT/NTFS support"
+msgstr "для підтримки FAT/NTFS"
+
+msgid "for GameTDB and hosting covers / disc images"
+msgstr "за GameTDB та хостинг обкладинок / малюнків дисків"
+
+msgid "for Ocarina"
+msgstr "за Ocarina"
+
+msgid "for diverse patches"
+msgstr "за різні патчі"
+
+msgid "for his awesome tool LibWiiGui"
+msgstr "за його чудово утиліту LibWiiGui"
+
+msgid "for hosting the themes"
+msgstr "за хостинг тем"
+
+msgid "for the USB Loader source"
+msgstr "за вихідний код USB Loader"
+
+msgid "for their work on the wiki page"
+msgstr "за їхню роботу із строінкою в Вікіпедії"
+
+msgid "formatted!"
+msgstr "Відфориматовано!"
+
+msgid "free"
+msgstr "вільно"
+
+msgid "ms"
+msgstr "мс"
+
+msgid "not set"
+msgstr "не встановлено"
+
+msgid "of"
+msgstr "із"
+
+msgid "seconds left"
+msgstr "секунд залишилось"
+
+#~ msgid "Anti"
+#~ msgstr "Анти"
+
+#~ msgid "Error 002 fix"
+#~ msgstr "Виправлення помилки 002"
+
+#~ msgid "Boot/Standard"
+#~ msgstr "Запуск/Стандарт"
+
+#~ msgid "Rename Game on WBFS"
+#~ msgstr "Перейменувати ігри в WBFS"
+
+#~ msgid "for hosting the update files"
+#~ msgstr "за хостинг оновлень файлів"
+
+#~ msgid "Insert a Wii Disc!"
+#~ msgstr "Вставте диск для Wii!"
+
+#~ msgid "No cheats were selected"
+#~ msgstr "Жодного чіткода не вибрано"
+
+#~ msgid "Not a Wii Disc"
+#~ msgstr "Це не диск для Wii"
+
+#~ msgid ">> Deleting tickets..."
+#~ msgstr ">> Видалення тікетів...."
+
+#~ msgid ">> Deleting tickets...ERROR! "
+#~ msgstr ">> Видалення тікетів...ПОМИЛКА! "
+
+#~ msgid ">> Deleting tickets...Ok! "
+#~ msgstr ">> Видалення тікетів...Файно! "
+
+#~ msgid ">> Deleting title ...ERROR! "
+#~ msgstr ">> Видалення...Помилка! "
+
+#~ msgid ">> Deleting title ...Ok!"
+#~ msgstr ">> Видалення...Файно!"
+
+#~ msgid ">> Deleting title contents..."
+#~ msgstr ">> Видалення змісту..."
+
+#~ msgid ">> Deleting title contents...ERROR! "
+#~ msgstr ">> Видалення змісту...ПОМИЛКА!"
+
+#~ msgid ">> Deleting title contents...Ok!"
+#~ msgstr ">> Видалення змісту...Файно!"
+
+#~ msgid ">> Deleting title..."
+#~ msgstr ">> Видалення..."
+
+#~ msgid ">> Finishing installation..."
+#~ msgstr ">> Завершення встановлення..."
+
+#~ msgid ">> Installing content #"
+#~ msgstr ">>Встановлення змісту №"
+
+#~ msgid ">> Installing ticket..."
+#~ msgstr ">>Встановлення тікета..."
+
+#~ msgid ">> Installing title..."
+#~ msgstr ">>Встановлення..."
+
+#~ msgid ">> Reading WAD data..."
+#~ msgstr ">> Зчитування даних WAD..."
+
+#~ msgid ">> Reading WAD data...ERROR! "
+#~ msgstr ">> Зчитування даних WAD...ПОМИЛКА!"
+
+#~ msgid ">> Reading WAD data...Ok!"
+#~ msgstr ">> Зчитування даних WAD...Файно!"
+
+#~ msgid "Done!"
+#~ msgstr "Готово!"
+
+#~ msgid "Error..."
+#~ msgstr "Помилка..."
+
+#~ msgid "Finishing installation... Ok!"
+#~ msgstr "Завершення встановлення... Файно!"
+
+#~ msgid "Installing content... Ok!"
+#~ msgstr "Встановлення змісту... Файно!"
+
+#~ msgid "Installing ticket... Ok!"
+#~ msgstr "Встановлення тікета... Файно!"
+
+#~ msgid "Installing title... Ok!"
+#~ msgstr "Встановлення... Файно!"
+
+#~ msgid "Installing WAD"
+#~ msgstr "Встановлення WAD"
+
+#~ msgid "Reading WAD data... Ok!"
+#~ msgstr "Зчитування даних WAD... Файно!"
+
+#~ msgid "Uninstalling WAD"
+#~ msgstr "Деінсталяція WAD"
+
+#~ msgid "New Disc Detected"
+#~ msgstr "Виявлено новий диск"
+
+#~ msgid "USB Device not found"
+#~ msgstr "USB-накопичувач не знайдено"
+
+#~ msgid "Language File"
+#~ msgstr "Мовний файл"
+
+#~ msgid "Titles from WiiTDB"
+#~ msgstr "Назви из WiiTDB"
+
+#~ msgid "WiiTDB Files"
+#~ msgstr "Файли WiiTDB"
+
+#~ msgid "WiiTDB Path"
+#~ msgstr "Шлях до WiiTDB"
+
+#~ msgid "for WiiTDB and hosting covers / disc images"
+#~ msgstr "за WIITDB и хостинг обкладинок / малюнків дисків"
+
+#~ msgid "Install partitions"
+#~ msgstr "Встановити томи"
+
+#~ msgid " Wad Saved as:"
+#~ msgstr " Wad збережено як:"
+
+#~ msgid "Delete ?"
+#~ msgstr "Видалити ?"
+
+#~ msgid "Keep"
+#~ msgstr "Залишити"
+
+#~ msgid "Author:"
+#~ msgstr "Автор:"
+
+#~ msgid "Download Boxart image?"
+#~ msgstr "Завантажити обкладинку коробки?"
+
+#~ msgid "Download Discart image?"
+#~ msgstr "Завантажити малюнок диска?"
+
+#~ msgid "Downloading file"
+#~ msgstr "Завантаження файла:"
+
+#~ msgid "Missing files"
+#~ msgstr "відсутніх файлів"
+
+#~ msgid "files not found on the server!"
+#~ msgstr "файлів не знайшлися на сервері!"
+
+#~ msgid "Disc Images"
+#~ msgstr "Малюнки дисків"
+
+#~ msgid "Only Customs"
+#~ msgstr "Лише власні"
+
+#~ msgid "Only Original"
+#~ msgstr "Лише оригінальні"
+
+#~ msgid "Do you really want to delete:"
+#~ msgstr "Дійсно бажаєте видалити:"
+
+#~ msgid "Do you want to use the alternate DOL that is known to be correct?"
+#~ msgstr "Бажаєте використовувати альтернативний DOL, який вважається правильним?"
+
+#~ msgid "BETA revisions"
+#~ msgstr "Бета-версії"
+
+#~ msgid "Unlock console to use this option."
+#~ msgstr "Розблокуйте консоль для змінення цього параметра."
+
+#~ msgid "Full Shutdown"
+#~ msgstr "Повне вимкнення"
+
+#~ msgid "GXtheme.cfg not found in any subfolder."
+#~ msgstr "GXtheme.cfg не знайдено в жодній підпапці."
+
+#~ msgid "If you don't have WiFi, press 1 to get an URL to get your WiiTDB.zip"
+#~ msgstr "Якщо у вас немає WiFi мережі, натисніть 1, щоб отримати ваший WiiTDB.ZIP"
+
+#~ msgid "Paste it into your browser to get your WiiTDB.zip."
+#~ msgstr "Вставте її в ваший браузер, щоб отримати ваший WiiTDB.zip"
+
+#~ msgid "Shutdown to Idle"
+#~ msgstr "Перевести в режим сну"
+
+#~ msgid "Your URL has been saved in %sWiiTDB_URL.txt."
+#~ msgstr "Ваша URL була збережена в %sWiiTDB_URL.txt."
+
+#~ msgid "Can't create file"
+#~ msgstr "Не вдається створити файл"
+
+#~ msgid "Connection lost..."
+#~ msgstr "З'єднання втрачено..."
+
+#~ msgid "Download failed."
+#~ msgstr "Завантаження не вдалося."
+
+#~ msgid "Download request failed."
+#~ msgstr "Запит на завантаження не вдався."
+
+#~ msgid "Downloading Page List:"
+#~ msgstr "Завантаження списку сторінок:"
+
+#~ msgid "Theme Download Path"
+#~ msgstr "Плях до завантаження теми"
+
+#~ msgid "Transfer failed."
+#~ msgstr "Передавання не вдалося."
+
+#~ msgid "Unsupported format, try to extract manually."
+#~ msgstr "Непідтримуваний формат, спробуйте розпакувати власноруч."
+
+#~ msgid "and translaters for language files updates"
+#~ msgstr "і перекладачам за оновлення мовних файлів"
+
+#~ msgid "Insert an SD-Card to save."
+#~ msgstr "Вставте SD карту для збереження."
+
+#~ msgid "Insert an SD-Card to use this option."
+#~ msgstr "Вставте SD карту, щоб використовувати це налаштування."
+
+#~ msgid "No SD-Card inserted!"
+#~ msgstr "SD карта не вставлена!"
+
+#~ msgid "Waiting for USB Device"
+#~ msgstr "Очікування USB-накопичувача"
+
+#~ msgid "Back to Loader"
+#~ msgstr "Повернутись до завантажувача"
+
+#~ msgid "FAT: Use directories"
+#~ msgstr "FAT: Використовувати папки"
+
+#~ msgid "All partitions"
+#~ msgstr "Всі томи"
+
+#~ msgid "Game partition"
+#~ msgstr "Том гри"
+
+#~ msgid "Install 1:1 Copy"
+#~ msgstr "Встановити копію 1:1"
+
+#~ msgid "An Error occured"
+#~ msgstr "Сталася помика"
+
+#~ msgid "Are you sure you want to enable Parent Control?"
+#~ msgstr "Дійсно бажаєте ввімкнути Батьківський контроль?"
+
+#~ msgid "AutoPatch"
+#~ msgstr "Авто Патч"
+
+#~ msgid "Checking for Updates"
+#~ msgstr "Перевірка наявності оновлень"
+
+#~ msgid "Downloading"
+#~ msgstr "Завантаження"
+
+#~ msgid "Invalid PIN code"
+#~ msgstr "Неправильний PIN-код"
+
+#~ msgid "Parental Control disabled"
+#~ msgstr "Батьківський контроль вимкнено"
+
+#~ msgid "The WAD file was installed.  But It could not be deleted from the SD card."
+#~ msgstr "WAD файл встановлено. Однак, його не можна видаляти SD карти."
+
+#~ msgid "The WAD installation failed with error %ld"
+#~ msgstr "Встановлення WAD не вдалося, помилка %ld"
+
+#~ msgid "Unable to open the WAD that was just downloaded (%s)."
+#~ msgstr "Не вдається відкрити щойно завантажений WAD файл (%s)."
+
+#~ msgid "Unlock Parental Control"
+#~ msgstr "Розблокувати Батьківський контроль"
+
+#~ msgid "Update to"
+#~ msgstr "Оновити до"
+
+#~ msgid "Updating"
+#~ msgstr "Оновлення"
+
+#~ msgid "Updating Language Files..."
+#~ msgstr "Оновлення мовних файлів..."
+
+#~ msgid "Updating WiiTDB.zip"
+#~ msgstr "Оновлення WiiTDB.zip"
+
+#~ msgid "You don't have Parental Control enabled. If you wish to use Parental Control, enable it in the Wii Settings."
+#~ msgstr "Батьківський контроль не ввімкнено. Якщо ви хочете використовувати Батьківський контроль, ввімкніть його в налаштуваннях Wii."
+
+#~ msgid "%s : %s May not boot correctly if your System Menu is not up to date."
+#~ msgstr "%s : %s може не запуститись правильно якщо ваше Системне меню не оновлене до останньої версії"
+
+#~ msgid "BCA Codes Path changed"
+#~ msgstr "Шлях до кодів BCA змінено"
+
+#~ msgid "Back to Wii Menu"
+#~ msgstr "Повернутись до меню Wii"
+
+#~ msgid "Checking existing artwork"
+#~ msgstr "Перевіра наявності зображень"
+
+#~ msgid "Confirm"
+#~ msgstr "Підтвердити"
+
+#~ msgid "Could not find a WBFS partition."
+#~ msgstr "Не вдалося знайти том WBFS"
+
+#~ msgid "Could not open WBFS partition"
+#~ msgstr "Не вдалося відкрити том WBFS"
+
+#~ msgid "Could not read the disc."
+#~ msgstr "Не вдалося прочитати диск"
+
+#~ msgid "Could not set USB."
+#~ msgstr "Не вдалося налаштувати USB."
+
+#~ msgid "Cover Path Changed"
+#~ msgstr "Шлях до обкладинок змінено"
+
+#~ msgid "DOL path changed"
+#~ msgstr "Шлях до DOL змінено"
+
+#~ msgid "Disc Path Changed"
+#~ msgstr "Шлях до малюнків дисків змінено"
+
+#~ msgid "Display favorites"
+#~ msgstr "Відображати улюблені"
+
+#~ msgid "Do you want to retry for 30 secs?"
+#~ msgstr "Бажаєте спробувати ще раз протягом 30с?"
+
+#~ msgid "Enable Parental Control"
+#~ msgstr "Ввімкнути Батьківський контроль"
+
+#~ msgid "Force"
+#~ msgstr "Примусово"
+
+#~ msgid "GCT Cheatcodes Path changed"
+#~ msgstr "Шлґх до чіткодів GCT змінено"
+
+#~ msgid "Hermes CIOS"
+#~ msgstr "Hermes CIOS"
+
+#~ msgid "Homebrew Appspath changed"
+#~ msgstr "Шлях до застосунків Homebrew змінено"
+
+#~ msgid "Insert an SD-Card to download images."
+#~ msgstr "Вставте SD карту, щоби завантажити зображення."
+
+#~ msgid "Install not possible"
+#~ msgstr "Встановлення неможливе"
+
+#~ msgid "Most likely it has dimensions that are not evenly divisible by 4."
+#~ msgstr "Швидше за все, розміри зображення не діляться на 4."
+
+#~ msgid "Network init error"
+#~ msgstr "Помилка Ініціалізації мережі"
+
+#~ msgid "No .dol or .elf files found."
+#~ msgstr "Ні .dol, ні .elf файлів не знайдено."
+
+#~ msgid "No Favorites"
+#~ msgstr "Немає улюбленх"
+
+#~ msgid "No USB Device"
+#~ msgstr "Немає USB-накопичувачів"
+
+#~ msgid "No USB Device found."
+#~ msgstr "USB-накопичувач не знайдено."
+
+#~ msgid "Normal Covers"
+#~ msgstr "Звичайні обкладинки"
+
+#~ msgid "Not Found"
+#~ msgstr "Не знайдено"
+
+#~ msgid "Not a DOL/ELF file."
+#~ msgstr "Не є файлом DOL/ELF"
+
+#~ msgid "Save Failed"
+#~ msgstr "Збереження не вдалося"
+
+#~ msgid "Selected DOL"
+#~ msgstr "Вибраний DOL"
+
+#~ msgid "Standard"
+#~ msgstr "Стандартний"
+
+#~ msgid "TXT Cheatcodes Path changed"
+#~ msgstr "Шлях до чіткодів TXT змінено"
+
+#~ msgid "Theme Download Path changed"
+#~ msgstr "Шлях до завантажень тем змінено."
+
+#~ msgid "Theme Path Changed"
+#~ msgstr "Шлях до тем змінено"
+
+#~ msgid "USB Loader GX will only run with Hermes CIOS rev 4! Please make sure you have revision 4 installed!"
+#~ msgstr "USB Loader GX буде працювати лише із Hermes CIOS rev 4! Будь ласка, переконайтесь, що у вас встановлена версія 4!"
+
+#~ msgid "Update Path changed."
+#~ msgstr "Шлях до оновлень змінено."
+
+#~ msgid "WIP Patches Path changed"
+#~ msgstr "Шлях до WIP патчів змінено"
+
+#~ msgid "WiiTDB Path changed."
+#~ msgstr "Шлях до WiiTDB змінено"
+
+#~ msgid "You are about to delete "
+#~ msgstr "Ви хочете видалити "
+
+#~ msgid "You are choosing to display favorites and you do not have any selected."
+#~ msgstr "Ви обрали відображати улюблені але ви не вибрали ніяких."
+
+#~ msgid "You are using NTFS filesystem. Due to possible write errors to a NTFS partition, installing a game is not possible."
+#~ msgstr "Ви використовуєте файлову систему NTFS. Через можливі помилки запису на том NTFS встановлення гри неможливе."
+
+#~ msgid "You have attempted to load a bad image"
+#~ msgstr "Ви спробували завантажити поганий образ."
+
+#~ msgid "does not exist!  You Messed something up, Idiot."
+#~ msgstr "не існує! Ти десь затупив, дурнику."
+
+#~ msgid "file left"
+#~ msgstr "файл залишився"
